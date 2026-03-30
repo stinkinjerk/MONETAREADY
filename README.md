@@ -7,7 +7,7 @@ MonetaReady analyzes your short video BEFORE you post and tells you:
 
 Just drop your video → get instant score + fixes.
 
-Try it: https://stinkinjerk.github.io/monetaready/monetaready.html
+Try it: https://stinkinjerk.github.io/MONETAREADY/
 
 On phone: Open → tap the "Install MonetaReady App" button (or Share → Add to Home Screen)
 
