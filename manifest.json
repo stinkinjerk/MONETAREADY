@@ -1,0 +1,22 @@
+{
+  "name": "MonetaReady",
+  "short_name": "MonetaReady",
+  "description": "Analyze short videos before posting. Get AI monetization score, risk detection, editing fixes, and performance predictions for TikTok Creator Rewards.",
+  "icons": [
+    {
+      "src": "https://picsum.photos/id/1015/192/192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://picsum.photos/id/1015/512/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0A0F1C",
+  "theme_color": "#D4AF37",
+  "orientation": "portrait-primary"
+}
